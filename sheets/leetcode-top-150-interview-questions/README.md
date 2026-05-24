@@ -1,6 +1,6 @@
 # LeetCode Top 150 Interview Questions
 
-A curated collection of solutions for the **LeetCode Top 150 Interview Questions** written in **Java**.
+A curated collection of solutions for the **LeetCode Top 150 Interview Questions** Solved in **Java**.
 
 # Sheet Structure
 
@@ -72,11 +72,8 @@ leetcode-top-150-interview-questions/
 
 ---
 
-# Progress
-
+# Progress & Solved Problems
 Problems are continuously being added and improved.
-
-# Solved Problems
 
 | # | Problem | Difficulty | Topic | Problem Link | Solution |
 |---|---|---|---|---|---|
