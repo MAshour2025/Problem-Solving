@@ -1,5 +1,5 @@
 /*
- * LeetCode <Problem Number> - <Problem Name>
+ * LeetCode <Problem Number>. <Problem Name>
  *
  * Topic: <Topic / Pattern>
  * Difficulty: <Easy / Medium / Hard>
