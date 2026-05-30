@@ -12,7 +12,7 @@
  */
 
 // Definition for singly-linked list.
-// commit ListNode class and copy code then will get accepted 
+// commit this class and copy code then will get accepted 
 class ListNode {
       int val;
       ListNode next;

@@ -15,17 +15,17 @@ import java.util.*;
 
 // Definition for singly-linked list.
 // commit this class and copy code then will get accepted 
-// class Node {
-//     int val;
-//     Node next;
-//     Node random;
+class Node {
+    int val;
+    Node next;
+    Node random;
 
-//     public Node(int val) {
-//         this.val = val;
-//         this.next = null;
-//         this.random = null;
-//     }
-// }
+    public Node(int val) {
+        this.val = val;
+        this.next = null;
+        this.random = null;
+    }
+}
  
 
 class Solution {
