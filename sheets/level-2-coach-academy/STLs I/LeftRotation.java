@@ -1,7 +1,7 @@
 /*
  * HackerRank - Left Rotation
  *
- * Topic: Queue
+ * Topic: STLs I
  * Difficulty: Easy
  *
  * Time Complexity: O(n + d)
