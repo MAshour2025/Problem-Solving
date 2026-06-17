@@ -13,7 +13,6 @@
 
 import java.util.*;
 
-//change name of this class to Main for getting accepted
 public class BoyorGirl_SpaceOptimized {
 
     public static void main(String[] args) {

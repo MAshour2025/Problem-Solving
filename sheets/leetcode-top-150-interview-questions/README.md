@@ -71,6 +71,34 @@ leetcode-top-150-interview-questions/
 - https://leetcode.com/studyplan/top-interview-150/
 
 ---
+## Progress
+
+| Topic | Progress |
+|--------|----------|
+| Array / String | 0 / 24 |
+| Two Pointers | 0 / 5 |
+| Sliding Window | 0 / 4 |
+| Matrix | 0 / 5 |
+| Hashmap | 0 / 9 |
+| Intervals | 0 / 4 |
+| Stack | 0 / 5 |
+| Linked List | 11 / 11 ✅ |
+| Binary Tree General | 0 / 13 |
+| Binary Search | 0 / 8 |
+| Heap | 0 / 4 |
+| Backtracking | 0 / 7 |
+| Graphs | 0 / 9 |
+| Dynamic Programming | 0 / 12 |
+| Bit Manipulation | 0 / 5 |
+| Math | 0 / 6 |
+| 1D DP | 0 / 4 |
+| Trie | 0 / 3 |
+| Divide and Conquer | 0 / 3 |
+| Kadane's Algorithm | 0 / 2 |
+| BFS / DFS | 0 / 4 |
+| Advanced Graphs | 0 / 3 |
+| **Total** | **11 / 150 (7.3%)** |
+---
 
 # Click on “solved” in the tables below to view the solution quickly
 
@@ -171,16 +199,14 @@ leetcode-top-150-interview-questions/
 | -- | ------------------------------------- | ---------- | ----------- | -------------------------------------------------------------------------------- | -------- |
 | 57 | Linked List Cycle                     | Easy       | Linked List | [LeetCode](https://leetcode.com/problems/linked-list-cycle/)                     | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/LinkedListCycle.java) |
 | 58 | Add Two Numbers                       | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/add-two-numbers/)                       | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/AddTwoNumbers.java) |
-| 59 | Merge Two Sorted Lists                | Easy       | Linked List | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)                | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/MergeTwoSortedLists.java) / [SpaceOptimizedSolution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/MergeTwoSortedLists_SpaceOptimized.java)|
+| 59 | Merge Two Sorted Lists                | Easy       | Linked List | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)                | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/MergeTwoSortedLists.java) / [SpaceOptimizedSolution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/MergeTwoSortedLists_SpaceOptimized.java) |
 | 60 | Copy List with Random Pointer         | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/)         | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/CopyListwithRandomPointer.java) / [TimeOptimizedSolution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/CopyListwithRandomPointer_TimeOptimized.java) |
-| 61 | Reverse Linked List II                | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/)                | unsolved |
-| 62 | Reverse Nodes in k-Group              | Hard       | Linked List | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/)              | unsolved |
-| 63 | Remove Nth Node From End of List      | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)      | unsolved |
-| 64 | Delete Duplicates from Sorted List II | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | unsolved |
-| 65 | Rotate List                           | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/rotate-list/)                           | unsolved |
-| 66 | Partition List                        | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/partition-list/)                        | unsolved |
-| 67 | LRU Cache                             | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/lru-cache/)                             | unsolved |
-
+| 61 | Reverse Linked List II                | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/)                | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/ReverseLinkedListII.java) / [SpaceOptimizedSolution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/ReverseLinkedListII_SpaceOptimized.java) |
+| 62 | Reverse Nodes in k-Group              | Hard       | Linked List | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/)              | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/ReverseNodesIn_k_Group.java) |
+| 63 | Remove Nth Node From End of List      | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)      | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/RemoveNthNodeFromEndofList.java) / [OnePassSolution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/RemoveNthNodeFromEndofList_OnePass.java) |
+| 64 | Delete Duplicates from Sorted List II | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/RemoveDuplicatesfromSortedListII.java) |
+| 65 | Rotate List | Medium | Linked List | [LeetCode](https://leetcode.com/problems/rotate-list/) | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/RotateList.java) || 66 | Partition List                        | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/partition-list/)                        | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/PartitionList.java) |
+| 67 | LRU Cache                             | Medium     | Linked List | [LeetCode](https://leetcode.com/problems/lru-cache/)                             | [Solution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/LRU_Cache.java) / [LinkedHashMapSolution](https://github.com/MAshour2025/Problem-Solving/blob/main/sheets/leetcode-top-150-interview-questions/linked-list/LRU_Cache_LinkedHashMap.java) |
 ## Binary Tree General
 
 | #  | Problem                                                    | Difficulty | Topic       | Problem Link                                                                                          | Solution |
